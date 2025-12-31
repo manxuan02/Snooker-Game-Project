@@ -9,7 +9,7 @@ This game have several modes to it:
 To change the game mode, press the game mode number.
 
 How to play the game?
-> Place the cue ball inside the D zone, then click on the desired position.
-> Mouse click to drag the cue to aim.
-> Hold the spacebar to adjust the power.
-> Release the spacebar to shoot the cue ball. 
+- Place the cue ball inside the D zone, then click on the desired position.
+- Mouse click to drag the cue to aim.
+- Hold the spacebar to adjust the power.
+- Release the spacebar to shoot the cue ball. 
