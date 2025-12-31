@@ -1,6 +1,6 @@
 function setupCushion()
 {
-    const cushionOptions = {
+    var cushionOptions = {
         isStatic: true,
         restitution: 0.5,
         friction: 0.1
